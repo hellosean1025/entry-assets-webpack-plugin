@@ -1,0 +1,21 @@
+{
+  "name": "entry-assets-webpack-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellosean1025/entry-assets-webpack-plugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hellosean1025/entry-assets-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/hellosean1025/entry-assets-webpack-plugin#readme"
+}
